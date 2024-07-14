@@ -20,45 +20,15 @@ Saiba mais em: [Oracle Next Education](https://www.oracle.com/br/education/oracl
 
 ## Com quem irá aprender
 
-<!-- Linha 1 -->
-<div style="display: flex; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
-    <div style="text-align: center; width: 16%; margin-bottom: 20px;">
-        <img src="https://cdn2.gnarususercontent.com.br/1/58372/faab17bc-a43f-42ed-b701-17f954bc776d.png?width=100&height=100&aspect_ratio=1:1" alt="Instrutor 1" style="width: 60%; border-radius: 50%;">
-        <p>Guilherme Lima</p>
-    </div>
-    <div style="text-align: center; width: 16%; margin-bottom: 20px;">
-        <img src="https://github.com/rafaballerini.png?size=100&d=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F43a7c3791fac100582581ec5d80ac076.png%3Fr%3DPG%26size%3D100x60%26date%3D2024-07-13%26d%3Dhttps%253A%252F%252Fcursos.alura.com.br%252Fassets%252Fimages%252Fforum%252Favatar_r.png" alt="Instrutor 2" style="width: 60%; border-radius: 50%;">
-        <p>Rafaella Ballerini</p>
-    </div>
-    <div style="text-align: center; width: 16%; margin-bottom: 20px;">
-        <img src="https://www.gravatar.com/avatar/641f736b59103127c7a6a46a683bca58.png?r=PG&size=100x100&date=2024-07-13&d=https%3A%2F%2Fcursos.alura.com.br%2Fassets%2Fimages%2Fforum%2Favatar_g.png" alt="Instrutor 3" style="width: 60%; border-radius: 50%;">
-        <p>Guilherme Silveira</p>
-    </div>
-    <div style="text-align: center; width: 16%; margin-bottom: 20px;">
-        <img src="https://cdn2.gnarususercontent.com.br/1/815643/35988eda-f22e-42e6-b95a-a21511afbe27.jpg?width=100&height=100&aspect_ratio=1:1" alt="Instrutor 4" style="width: 60%; border-radius: 50%;">
-        <p>Valquíruia Alencar</p>
-    </div>
-    <div style="text-align: center; width: 16%; margin-bottom: 20px;">
-        <img src="https://cdn2.gnarususercontent.com.br/1/723276/43920617-1217-463b-98fc-0a634d69c5d8.jpg?width=100&height=100&aspect_ratio=1:1" alt="Instrutor 5" style="width: 60%; border-radius: 50%;">
-        <p>Mônica Mazzochi Hillman</p>
-    </div>
-    <div style="text-align: center; width: 16%; margin-bottom: 20px;">
-        <img src="https://cdn2.gnarususercontent.com.br/1/1221554/9b8ee41d-2154-4ba5-a9ac-bc40ae8aa3b6.jpeg?width=100&height=100&aspect_ratio=1:1" alt="Instrutor 6" style="width: 60%; border-radius: 50%;">
-        <p>Gabrielle Ribeiro Gomes</p>
-    </div>
-    <div style="text-align: center; width: 16%; margin-bottom: 20px;">
-        <img src="https://github.com/rcaneppele.png?size=100&d=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F1bca39bfbe32fdf52de7ace1f855f267.png%3Fr%3DPG%26size%3D100x60%26date%3D2024-07-13%26d%3Dhttps%253A%252F%252Fcursos.alura.com.br%252Fassets%252Fimages%252Fforum%252Favatar_r.png" alt="Instrutor 6" style="width: 60%; border-radius: 50%;">
-        <p>Rodrigo da Silva Ferreira Caneppele</p>
-    </div>
-    <div style="text-align: center; width: 16%; margin-bottom: 20px;">
-        <img src="https://cdn2.gnarususercontent.com.br/1/832308/ecff887b-47cf-4553-8194-ff6a49a03c37.jpg?width=100&height=100&aspect_ratio=1:1" alt="Instrutor 6" style="width: 60%; border-radius: 50%;">
-        <p>Genesys Rondon</p>
-    </div>
-    <div style="text-align: center; width: 16%; margin-bottom: 20px;">
-        <img src="./Img/luri-icon-instructor.svg" alt="Instrutor 6" style="width: 60%; border-radius: 50%;">
-        <p>Luri, a IA da Alura</p>
-    </div>
-</div>
+<a href="https://www.linkedin.com/in/guilherme-lima-developer"><img src="https://cdn2.gnarususercontent.com.br/1/58372/faab17bc-a43f-42ed-b701-17f954bc776d.png?width=100&height=100&aspect_ratio=1:1" alt="Instrutor 1" title="Guilherme Lima" style="width: 50px; border-radius: 50%;"></a>
+<a href="https://br.linkedin.com/in/rafaella-ballerini-45875016a"><img src="https://github.com/rafaballerini.png?size=100&d=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F43a7c3791fac100582581ec5d80ac076.png%3Fr%3DPG%26size%3D100x100%26date%3D2024-07-14%26d%3Dhttps%253A%252F%252Fcursos.alura.com.br%252Fassets%252Fimages%252Fforum%252Favatar_r.png" alt="Instrutor 1" title="Rafaella Ballerini" style="width: 50px; border-radius: 50%;"></a>
+<a href="https://www.linkedin.com/in/guilhermeazevedosilveira/"><img src="https://www.gravatar.com/avatar/641f736b59103127c7a6a46a683bca58.png?r=PG&size=100x100&date=2024-07-14&d=https%3A%2F%2Fcursos.alura.com.br%2Fassets%2Fimages%2Fforum%2Favatar_g.png" alt="Instrutor 1" title="Guilherme Silveira" style="width: 50px; border-radius: 50%;"></a>
+<a href="https://www.linkedin.com/in/valquiria-alencar/"><img src="https://cdn2.gnarususercontent.com.br/1/815643/35988eda-f22e-42e6-b95a-a21511afbe27.jpg?width=100&height=100&aspect_ratio=1:1" alt="Instrutor 1" title="Valquíria Alencar" style="width: 50px; border-radius: 50%;"></a>
+<a href="https://www.linkedin.com/in/monicamhillman/"><img src="https://cdn2.gnarususercontent.com.br/1/723276/43920617-1217-463b-98fc-0a634d69c5d8.jpg?width=100&height=100&aspect_ratio=1:1" alt="Instrutor 1" title="Mônica Mazzochi Hillman" style="width: 50px; border-radius: 50%;"></a>
+<a href="https://www.linkedin.com/in/gabrielleribeiro/"><img src="https://cdn2.gnarususercontent.com.br/1/1221554/9b8ee41d-2154-4ba5-a9ac-bc40ae8aa3b6.jpeg?width=100&height=100&aspect_ratio=1:1" alt="Instrutor 1" title="Gabrielle Ribeiro Gomes" style="width: 50px; border-radius: 50%;"></a>
+<a href="https://www.linkedin.com/in/rcaneppele/"><img src="https://github.com/rcaneppele.png?size=100&d=https%3A%2F%2Fwww.gravatar.com%2Favatar%2F1bca39bfbe32fdf52de7ace1f855f267.png%3Fr%3DPG%26size%3D100x100%26date%3D2024-07-14%26d%3Dhttps%253A%252F%252Fcursos.alura.com.br%252Fassets%252Fimages%252Fforum%252Favatar_r.png" alt="Instrutor 1" title="Rodrigo da Silva Ferreira Caneppele" style="width: 50px; border-radius: 50%;"></a>
+<a href="https://www.linkedin.com/in/rcaneppele/"><img src="https://cdn2.gnarususercontent.com.br/1/832308/ecff887b-47cf-4553-8194-ff6a49a03c37.jpg?width=100&height=100&aspect_ratio=1:1" alt="Instrutor 1" title="Genesys Rondon" style="width: 50px; border-radius: 50%;"></a>
+<a href="https://suporte.alura.com.br/support/solutions/articles/72000606593-conheca-a-luri-nossa-intelig%C3%AAncia-artificial"><img src="./Img/luri-icon-instructor.svg" alt="Instrutor 1" title="Luri, a IA da Alura" style="width: 50px; border-radius: 50%;"></a>
 
 ## Roadmap do curso
 
